@@ -11,6 +11,7 @@ Each project below runs as a live demo with invented sample data. No real studen
 | Project | What it shows | Try it |
 | --- | --- | --- |
 | [AI Forward Network + Summit](https://github.com/wkriesel/ai-forward-network) | A year-round educator AI network for a 28-district county: domain-verified waitlist that learns new districts, gated meetings, an XP ladder, and a summit app with check-in and live Q&A | [Live demo](https://wkriesel.github.io/ai-forward-network/) |
+| [The Hunt](https://github.com/wkriesel/the-hunt) | A real-time workshop app: groups play on their phones while a facilitator runs four phases live, built on React, Socket.io, Node, and Postgres | [How it works](https://wkriesel.github.io/the-hunt/) |
 | [Student Voice Gallery Walk](https://github.com/wkriesel/student-voice-gallery) | Bringing student voice into teacher PD, with live room reactions and a facilitator view | [Live demo](https://wkriesel.github.io/student-voice-gallery/) |
 | [Program Feedback Dashboard](https://github.com/wkriesel/program-feedback-dashboard) | Turning open-ended feedback into themes a team can act on, without losing the outlier voices | [Live demo](https://wkriesel.github.io/program-feedback-dashboard/) |
 | [K-12 Gen AI Maturity Assessment](https://github.com/wkriesel/genai-maturity-assessment) | Surfacing where district leaders agree and disagree on AI readiness | [Live demo](https://wkriesel.github.io/genai-maturity-assessment/) |
